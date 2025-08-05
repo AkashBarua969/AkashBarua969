@@ -83,7 +83,7 @@ I’m seeking real-world challenges to grow, lead, and create meaningful tech so
 <p align="center">
   <a href="https://www.linkedin.com/in/akash-barua-186560334/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://www.freelancer.com.bd/u/akashbaruaab969"><img src="https://img.shields.io/badge/Freelancer-Profile-blue?style=for-the-badge&logo=freelancer" /></a>
-  <a href="https://www.facebook.com/akashbarua969"><img src="https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook" /></a>
+  <a href="https://www.facebook.com/akashbarua.raj.5/"><img src="https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook" /></a>
   <a href="mailto:akashbarua969@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
